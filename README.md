@@ -1,1 +1,1 @@
-*Bait bir rezervasyon sistemi
+*Basit bir rezervasyon sistemi
